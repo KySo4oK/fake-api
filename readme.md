@@ -1,0 +1,1 @@
+java -jar target/fake-api-0.0.1.jar
