@@ -44,5 +44,4 @@ public class FakeController {
             throw new ValidationException("id cannot be negative");
         }
     }
-
 }
